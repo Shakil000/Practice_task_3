@@ -1,0 +1,9 @@
+.tblline{
+    border-collapse: collapse;
+}
+.tabledata td,th{
+    border: 3px solid rgb(186, 186, 186);
+}
+.figcap{
+    margin-left: 50px;
+}
